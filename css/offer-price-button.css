@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.opensans {
+  font-family: "Open Sans", sans-serif;
+}
+/* offer-price-button.css */
+.offer-price-button {
+    width: 150px;
+    font-family:'Open Sans', sans-serif;
+}
+
+/* Style for success message */
+.offer-price-success {
+    color: green;
+    font-weight: bold;
+}
+/* Style for error message */
+.offer-price-error {
+    color: red;
+    font-weight: bold;
+}
